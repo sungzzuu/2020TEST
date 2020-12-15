@@ -1,0 +1,15 @@
+
+*.ipch
+OpenGL과제_10주차_텍스처_23_24_25/OpenGL_Shader_Framework_23번/.vs/OpenGL_Framework/v16/.suo
+*.log
+*.tlog
+*.idb
+*.pdb
+*.mtl
+*.DDS
+*.tga
+OpenGL과제_10주차_텍스처_23_24_25/OpenGL_Shader_Framework_24번/.vs/OpenGL_Framework/v16/.suo
+*.db
+*.ilk
+OpenGL과제_10주차_텍스처_23_24_25/OpenGL_Shader_Framework_25번/.vs/OpenGL_Framework/v16/.suo
+*.recipe
